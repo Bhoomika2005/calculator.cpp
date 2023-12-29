@@ -28,7 +28,7 @@ int main()
         break;
 
     default:
-        cout << oper << "invalid operator";
+        cout << oper << "invalid operator!";
     }
     return 0;
 }

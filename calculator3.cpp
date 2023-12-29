@@ -24,7 +24,7 @@ int main()
         if (num2 != 0.0)
             cout << num1 << "/" << num2 << "=" << (num1 / num2);
         else
-            cout << "cannot say";
+            cout << "can't say";
         break;
 
     default:
